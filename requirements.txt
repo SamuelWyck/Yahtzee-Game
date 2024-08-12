@@ -1,0 +1,4 @@
+make sure to run these commands in the terminal before running the program.
+
+pip install tabulate
+pip install pyfiglet
